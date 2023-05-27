@@ -1,6 +1,6 @@
 # Android-Studio
 
-Nama  : Ilham Agung Pamungkass
+Nama  : Ilham Agung Pamungkass |
 NIM   : 312010235
 Kelas : TI.20.D2
 
